@@ -6,6 +6,7 @@ Users can submit health-related queries, and the model generates tailored advice
 
 The application is deployed on Streamlit, ensuring a seamless and user-friendly platform for real-time personalized health guidance and support.
 
-Thank You,Ullas Y R
+Thank You,
+Ullas Y R
 
 App link: https://healthify-application-fosrjezwbdcszpljydqu7e.streamlit.app/
